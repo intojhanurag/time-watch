@@ -23,6 +23,9 @@ A Chrome extension that displays a visual time-progress tracker on every page â€
 4. Click **Load unpacked** and select the `time-watch` folder
 5. The widget will now appear on every page you visit
 
+You will in see in bottom left in small circle showing percentage , and when you tap then will see this interface.
+![alt text](image.png)
+
 ## Usage
 
 - **Hover** over the circle to see the current day of the year
